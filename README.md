@@ -5,7 +5,7 @@
 ## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-* [XAMPP](www.apachefriends.org)
+* [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 * [PHP](https://www.php.net)
 * [MySql](https://www.mysql.com)
 
